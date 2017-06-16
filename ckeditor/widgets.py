@@ -44,10 +44,10 @@ DEFAULT_CONFIG = {
         ['Smiley', 'SpecialChar'], ['Source'],
     ],
     'toolbar': 'Full',
-    'height': 291,
-    'width': 835,
-    'filebrowserWindowWidth': 940,
-    'filebrowserWindowHeight': 725,
+    'height': '100%',
+    'width': '100%',
+    'filebrowserWindowWidth': '100%',
+    'filebrowserWindowHeight': '100%',
 }
 
 
